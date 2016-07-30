@@ -1,6 +1,6 @@
 #Code of Welcoming Conduct
 
-We are coming together, in everything we do, with an intent to care for ourselves and one another. We want to nurture an empathetic culture. This "code of conduct" is the structure for our work together, the foundation. To us, a code of conduct is a affirmation that we are responsible, together, for maintaining this culture, and it's a clear statement that we will take action to protect it, including limiting who we invite into (and exclude from) our spaces.
+We are coming together, in everything we do, with an intent to care for ourselves and one another. We want to nurture an empathetic culture. This "code of conduct" is the structure for our work together, the foundation. To us, a code of conduct is an affirmation that we are responsible, together, for maintaining this culture, and it's a clear statement that we will take action to protect it, including limiting who we invite into (and exclude from) our spaces.
 
 ##Is this really necessary?
 Sometimes things go wrong, at gatherings, in chat, in open source discussions. This code of conduct is an effort to prevent people being hurt, and to talk about what might happen if someone is hurt.
@@ -50,7 +50,7 @@ If, in the view of the staff, someone is not able to participate in a way that s
 - If you don't want to, or if they don't want to speak with you, you can get an organizer to help you.
   
 ##Contributing to a culture of empathy
-If someone "calls you out", hear the feedback. Listen for their experience, the feelings coming up. Consider how those emotions feel to you; notice what you have in common. Accept that something you did brought those feeling up for that person. Doesn't mean that you are bad, or you were "wrong" &dash; it means that you notice what happened, and accept it. Receive the feedback, and whatever clarifications they're _happy_ to provide, and then in private, mull them over. Ask friends questions, and decide for yourself what resonates with you and what doesn't, and what actions you want to take in response. Your values and your growth belong to you, and no one else.
+If someone "calls you out", hear the feedback. Listen for their experience, the feelings coming up. Consider how those emotions feel to you; notice what you have in common. Accept that something you did brought those feelings up for that person. Doesn't mean that you are bad, or you were "wrong" &dash; it means that you notice what happened, and accept it. Receive the feedback, and whatever clarifications they're _happy_ to provide, and then in private, mull them over. Ask friends questions, and decide for yourself what resonates with you and what doesn't, and what actions you want to take in response. Your values and your growth belong to you, and no one else.
 
 If you see something that seems off or scary, ask how folks are doing, or grab a staff member for help. We will not blow you off. We will be grateful.
 
